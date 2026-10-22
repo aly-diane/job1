@@ -1,0 +1,12 @@
+# 1. Cloner un repository
+git clone URL_DU_REPOSITORY
+
+# 2. Ajouter les modifications
+git add .
+
+# 3. Créer un commit
+git commit -m "Message explicite"
+
+# 4. Envoyer les commits sur GitHub
+git push
+  
